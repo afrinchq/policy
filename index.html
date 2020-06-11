@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>Action for Results, Inc.
 <ul>
-    {% for p in site.pages %}
+    {% for p in site.html_pages %}
         <li>
             <a href={{ p.url | absolute_url }}> {{ p.title }} </a>;
         </li>
