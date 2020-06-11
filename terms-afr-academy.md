@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AfR Academy Terms and Conditions
+title: AfR Academy Terms
 ---
 # AfR Academy Terms and Conditions
 1. TOC
