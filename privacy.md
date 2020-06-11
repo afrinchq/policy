@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Privacy Policy
-has_children: true
-has_toc: true
 ---
 # Privacy Policy
+1. TOC
+{:toc}
 
 # What data we collect
 
