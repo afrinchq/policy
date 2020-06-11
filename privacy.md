@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+has_children: true
+has_toc: true
+---
 # Privacy Policy
 
 # What data we collect
@@ -22,7 +28,6 @@ We also collect data in order to:
 - administer online education offerings;
 - gather feedback to improve our offerings, for example a survey asking about your experience on the site;
 - respond to any feedback you send us, if you’ve asked us to;
-
 - respond to questions, comments, and other requests;
 - answer requests for customer or technical support; and
 - send email notifications, for example reminders to complete course content;
@@ -44,8 +49,6 @@ We will:
 ### Sub-processors
 
 We use the following sub-processors:
-
-
 
 # Forums and Chat Rooms
 
@@ -96,7 +99,7 @@ The Services may contain links to other websites and applications and other webs
 
 # Contact us or resolve a complaint
 
-If you have concerns about the way Action for Results is handling your personal data, please let us know immediately. We want to help. Contact us by filling out the [Privacy Request Form][2].
+If you have concerns about the way Action for Results is handling your personal data, please let us know immediately. We want to help. Contact us by filling out the [Privacy Request Form][1].
 
 # Changes to this policy
 
@@ -107,4 +110,3 @@ If these changes affect how your personal data is processed, we will take reason
 Last updated date: 11 June 2020
 
 [1]:	https://actionforresults.com/privacyrequest
-[2]:	https://actionforresults.com/privacyrequest
