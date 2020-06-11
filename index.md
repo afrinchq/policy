@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Policies
 ---
-1. Contents
-{% for doc in site.docs %}
-        {{ doc.title }}
+
+{% for p in site.pages %}
+   * [{{ p.title }}]({{ p.url | absolute_url }})
 {% endfor %}
