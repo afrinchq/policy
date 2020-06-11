@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h1>Action for Results, Inc.
+<ul>
+    {% for p in site.pages %}
+        <li>
+            <a href={{ p.url | absolute_url }}> {{ p.title }} </a>;
+        </li>
+    {% endfor %}
+</ul>
+
